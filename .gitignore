@@ -1,0 +1,16 @@
+# Arquivos Python
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+myenv/
+ENV/
+
+# Outros
+*.log
+*.DS_Store
