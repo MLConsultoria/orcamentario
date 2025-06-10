@@ -1,0 +1,6 @@
+# Requirements para aplicação Streamlit de Planejamento Orçamentário
+streamlit
+streamlit-option-menu
+streamlit-aggrid
+pandas
+pyspark
